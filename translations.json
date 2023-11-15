@@ -729,5 +729,5 @@
         "ask_chatgpt":"Preguntar a ChatGPT",
         "loading":"Carregant...",
         "function_unavailable_in_inline_mode": "Aquesta funció no està disponible en el mode inline"
-    },
+    }
 }
